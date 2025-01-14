@@ -1,0 +1,14 @@
+tmp/
+temp/
+product_html/
+dbs
+product_data.db
+venv
+*.log
+*/__pycache__/
+*/*/__pycache__/
+
+
+./*/*.pyc
+./*/*.pyo
+./*/*.pyd
